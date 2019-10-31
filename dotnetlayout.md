@@ -1,18 +1,18 @@
 $/
-  artifacts/
-  build/
-  docs/
-  lib/
-  packages/
-  samples/
-  src/
-  tests/
-  .editorconfig
-  .gitignore
-  .gitattributes
-  build.cmd
-  build.sh
-  LICENCE
-  Nuget.config
-  README.md
-  {solutions}.sln
+artifacts/
+build/
+docs/
+lib/
+packages/
+samples/
+src/
+tests/
+.editorconfig
+.gitignore
+.gitattributes
+build.cmd
+build.sh
+LICENCE
+Nuget.config
+README.md
+{solutions}.sln
