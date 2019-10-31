@@ -1,6 +1,5 @@
 $/
-<div class="bg-gray">
- - artifacts/
+ - <p>artifacts/</p>
  -  build/
  -  docs/
  - lib/
@@ -17,4 +16,3 @@ $/
  - Nuget.config
  - README.md
  - {solutions}.sln
-</div>
