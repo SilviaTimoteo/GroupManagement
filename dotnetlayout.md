@@ -1,4 +1,3 @@
-<span style="background-color: #FFFF00">
 $/
  - <p>artifacts/</p>
  -  build/
@@ -17,4 +16,3 @@ $/
  - Nuget.config
  - README.md
  - {solutions}.sln
-</span>
